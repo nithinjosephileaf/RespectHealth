@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155586865063",
+    "project_id": "respect-health",
+    "storage_bucket": "respect-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155586865063:android:ca57682aac9b19f1ea7882",
+        "android_client_info": {
+          "package_name": "org.marcinwalczak.respecthealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155586865063-0ug9jr6n5erqifjhc6s25d7pm4sp50ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0HIFiF6szMdx8uiAxljkF8Mjf8i0bpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155586865063-0ug9jr6n5erqifjhc6s25d7pm4sp50ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
